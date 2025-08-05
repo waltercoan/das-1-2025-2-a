@@ -32,3 +32,15 @@ exit
 ## Arquitetura de Código
 
 [5 Princípios de Projeto](https://engsoftmoderna.info/cap5.html)
+
+## Aula 04/08
+
+- Princípios de projeto de código
+- Padronização de código
+- Ocultamento de Informação
+- Coesão
+- Acoplamento
+
+## Aula 05/08
+
+- SOLID
