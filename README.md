@@ -44,3 +44,71 @@ exit
 ## Aula 05/08
 
 - SOLID
+  - Single Responsibility Principle
+  - Interface Segregation Principle
+
+```java
+package br.univille;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+
+public class Janelinha extends JFrame{
+
+    private JButton botaozinho;
+    private Controlador controlador;
+
+    public Janelinha() {
+        setTitle("Eu nao acredito");
+        setSize(500,500);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+        botaozinho = new JButton("ME CLICA");
+        controlador = new Controlador();
+        botaozinho.addActionListener(controlador);
+
+        /*botaozinho.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                JOptionPane.showMessageDialog(null,"oi");
+            }
+        });*/
+        
+        add(botaozinho);
+
+        setVisible(true);
+    }
+    public static void main(String[] args) {
+        new Janelinha();
+    }
+}
+```
+
+
+```java
+package br.univille;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JOptionPane;
+
+public class Controlador implements ActionListener{
+
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        meClica();
+    }
+
+    private void meClica(){
+        JOptionPane.showMessageDialog(null, "NAO ACREDITO");
+    }
+    
+    
+}
+```
