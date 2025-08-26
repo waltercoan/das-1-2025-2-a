@@ -131,3 +131,13 @@ public class Controlador implements ActionListener{
 [Livro Engenharia de Software - Padrões de Projeto](https://engsoftmoderna.info/cap6.html)
 
 [Padrões de Projeto Guru](https://refactoring.guru/design-patterns)
+
+
+## Aula 25/08
+
+[Padrões de Projeto Guru - Implementação Observer](https://refactoring.guru/design-patterns/observer)
+
+## Aula 26/08
+
+[Fundamentos da Arquitetura de Software - Introdução](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/18[%3Bvnd.vst.idref%3Dcap1.xhtml]!/4)
+
