@@ -141,3 +141,4 @@ public class Controlador implements ActionListener{
 
 [Fundamentos da Arquitetura de Software - Introdução](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/18[%3Bvnd.vst.idref%3Dcap1.xhtml]!/4)
 
+- Definir Introdução a arquitetura (características, princípios e decisões)
