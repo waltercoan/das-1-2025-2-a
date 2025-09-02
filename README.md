@@ -160,8 +160,9 @@ public class Controlador implements ActionListener{
 
 [Fundamentos da Arquitetura de Software - Pensamento Arquitetônico](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/22%5B%3Bvnd.vst.idref%3Dcap2.xhtml%5D!/4)
 
-Resuma a diferençca entre: Arquitetura e Design
-Como é a formação do conhecimento de um arquiteto modelo T?
+- Resuma a diferençca entre: Arquitetura e Design
+- Como é a formação do conhecimento de um arquiteto modelo T?
+
 
 
 
