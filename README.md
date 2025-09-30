@@ -168,3 +168,13 @@ public class Controlador implements ActionListener{
 [Fundamentos da Arquitetura de Software - Análise de Trade-offs](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/22%5B%3Bvnd.vst.idref%3Dcap2.xhtml%5D!/4/2/58%5Bsigil_toc_id_24%5D/1:22%5B-of%2Cfs%5D)
 
 
+# 2 Bimestre
+
+## Aula 29/09
+
+- [circuit-breaker](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+- Implementação Filas: Producer / Consumer
+
+## Aula 30/09
+
+- Implementação Filas: Producer / Consumer
