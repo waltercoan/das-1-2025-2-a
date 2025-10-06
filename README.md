@@ -178,3 +178,8 @@ public class Controlador implements ActionListener{
 ## Aula 30/09
 
 - Implementação Filas: Producer / Consumer
+
+## Aula 06/10
+
+- [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
+
