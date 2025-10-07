@@ -183,3 +183,7 @@ public class Controlador implements ActionListener{
 
 - [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
 
+## Aula 07/10
+
+- [CQRS](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [Definições das características arquiteturais](https://integrada.minhabiblioteca.com.br/reader/books/9788550819754/epubcfi/6/26[%3Bvnd.vst.idref%3Dcap4.xhtml]!/4)
